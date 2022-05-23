@@ -1,4 +1,4 @@
-#/r/WallStreetBets Impact on Meme Stocks
+# /r/WallStreetBets Impact on Meme Stocks
 Primary Language Used: Pyspark
 
 
